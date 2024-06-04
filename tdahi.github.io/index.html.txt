@@ -1,68 +1,7 @@
-html lang=en
-head
-    titleEvelyn's Repotitle
-
-    meta charset=utf-8
-    meta name=viewport content=width=device-width, initial-scale=1
-    meta name=description content=
-    meta name=author content=
-    script src=httpsajax.googleapis.comajaxlibsjquery2.1.3jquery.min.jsscript
-
-    link rel=stylesheet href=httpsmaxcdn.bootstrapcdn.combootstrap3.3.5cssbootstrap.min.css
-    link rel=stylesheet href=httpscdnjs.cloudflare.comajaxlibsfont-awesome4.7.0cssfont-awesome.min.css
-    link href=httpsfonts.googleapis.comcssfamily=Karla400,700 rel=stylesheet type=textcss
-    link href=httpsfonts.googleapis.comcssfamily=Fredoka+One rel=stylesheet type=textcss
-    link href=Style.css rel=stylesheet
-
-body
-
-header
-  div class=intromsg
-    img id='repoIcon' src=CydiaIcon1.png
-    h1 class=repo Evelyn's Cydia Repo h1
-    div class=col-lg-8 col-lg-offset-2 text-center
-        a href=cydiaurlhttpscydia.saurik.comapishare#source=httpstadashi.github.io
-           class=btn btn-lg btn-outlineAdd this repo to Cydiaa
-    div
-  div
-
-  div class=col-lg-12
-      h2 class=donationIf you enjoy my work, please consider supporting me with a small donation )h2
-  div
-  div class=col-lg-8 col-lg-offset-2 text-center
-      a href=httpswww.paypal.metadashi class=btn btn-lg btn-outlineBuy me a coffeebeera
-  div
-
-header
-
-
-footer class=text-center
-    div class=footer-above
-        div class=container
-            div class=row
-                div class=footer-col
-                    ul class=list-inline
-                      li
-                          a href=mailtohprobloxgamer@gmail.com class=btn-social btn-outlinespan
-                                  class=sr-onlyEmailspani
-                                  class=fa fa-fw fa-envelope-openia
-                      li
-                      li
-                          a href=httpswww.reddit.comuserdungct1234 class=btn-social btn-outlinespan
-                                  class=sr-onlyRedditspani
-                                  class=fa fa-fw fa-reddit-alienia
-                      li
-                      li
-                          a href=httpstwitter.comtadashi1608 class=btn-social btn-outlinespan
-                                  class=sr-onlyTwitterspani
-                                  class=fa fa-fw fa-twitteria
-                      li
-                    ul
-                div
-            div
-        div
-    div
-footer
-
-body
-html
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World!</h1>
+<p>This is a Cydia repo!</p>
+</body>
+</html>
